@@ -1,4 +1,5 @@
-## Olá eu sou a André Barcelar, Pós-graduação Inteligência Artificial (Ia) | Formado em Análise e Desenvolvimento!
+## Olá eu sou a André Barcelar, 
+Pós-graduação Inteligência Artificial (Ia), Formado em Análise e Desenvolvimento!
 
 - 🔭 hoje trabalho como Gestor ...
 - 📫 Contato: andre-barcelar@live.com
