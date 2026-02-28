@@ -6,8 +6,8 @@ Com uma trajetória multidisciplinar que une a base administrativa do varejo à 
 | Instituição | Curso | Status |
 | :--- | :--- | :--- |
 | **PUCRS** | MBA em Tecnologia para Negócios: AI, Data Science e Big Data | Cursando (2026) |
-| **UNIATENEU** | Pós-graduação em Inteligência Artificial | Concluído (2025) |
-| **UNINASSAU** | Tecnólogo em Análise e Desenvolvimento de Sistemas | Concluído (2024) |
+| **UNIATENEU** | Pós-graduação em Inteligência Artificial | Concl.(2025) |
+| **UNINASSAU** | Tecnólogo em Análise e Desenvolvimento de Sistemas | Concl.(2024) |
 
 ---
 
