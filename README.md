@@ -33,7 +33,7 @@ Com uma trajetória multidisciplinar que une a base administrativa do varejo à 
 ---
 
 ### 🛠️ Hard Skills
-| Área | Tecnologias e Ferramentas |
+| Áreas | Ferramentas |
 | :--- | :--- |
 | **Data Science & BI** | `SQL` `Python (Pandas/NumPy, Scikit-learn)` `ETL` `Power BI (Modelagem, DAX, Visualização)` `EDA` `Google Analytics` |
 | **Inteligência Artificial & ML** | `Análise Preditiva` `Modelagem Preditiva` |
